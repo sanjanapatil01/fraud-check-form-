@@ -1,0 +1,142 @@
+
+*{
+  margin: 0;
+}
+.main{
+  background-color:gray;
+ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ height: 50px;
+ width: 100%;
+ 
+
+}
+a{
+  display: flex;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-decoration: none;
+  color: black;
+  font-weight: 200;
+  font-size: larger;
+  border: 2px solid rgba(255, 255, 255, 0.592);
+  background-color:rgba(133, 153, 180, 0.49);
+  border-radius: 5px;
+color: white;
+}
+a:hover{
+border: 1px solid black;
+border-radius: 3px;
+}
+.fraud{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+.contain{
+
+  display: block;
+  
+}
+.what{
+  margin-left: 30%;
+  height: 50px;
+  width: 200px;
+  background-color:rgba(40, 127, 162, 0.712);
+  text-align: center;
+  border-radius: 10px;
+  }
+  .none{
+    margin-left: 30%;
+    text-align: left;
+    height: 100px;
+    width: 300px;
+    margin-top: 20px;
+  }
+.img1{
+
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+}
+.image{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img2{
+  
+height: 300px;
+width: 650px;
+margin-top: 10px;
+
+}
+.h22{
+  display: block;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 15px;
+color: rgb(28, 30, 35);
+}
+.text1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+
+}
+.font1{
+ 
+text-align: left;
+  width: 650px;
+  margin-top: 20px;
+  line-height: 25px;
+  margin-top: 10px;
+  height: 200px;
+}
+.call{
+ 
+  
+
+color: rgb(13, 16, 23);
+
+height: 100px;
+width: 200px;
+margin-left: 45%;
+}
+.h11{text-align: center;
+background-color:rgba(40, 127, 162, 0.712);
+border-radius: 10px;}
+.ways{ display: flex;
+  justify-content: center;
+  align-items: center;}
+.your{
+
+  height: 400px;
+width: 650px;
+margin-top: 10px;
+}
+.footer{
+  margin-top: 25px;
+
+}
+.footer-panel1{
+  background-color: grey;
+  color: black;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.85rem;
+}
